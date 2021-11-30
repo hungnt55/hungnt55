@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
-importance: 2
-category: work
+title: project 1
+description: Computationally Efficient Signal Processing via Adversarial Networks (CESPAN), April 1, 2020 - October 31, 2021.
+img:
+importance: 1
+category:
 ---
 
 Every project has a beautiful feature showcase page.
